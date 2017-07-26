@@ -30,7 +30,16 @@
     git pull origin master --allow-unrelated-histories
     ```
 
-    ​	
+  - Changes not staged for commit
+
+    ```
+    git add .
+    git commit -m 'something to describe'
+    ```
+
+    ​
+
+    ​
 
   ## git 注册到 github
 
